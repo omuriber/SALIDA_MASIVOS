@@ -1,0 +1,1 @@
+# SALIDA_MASIVOS
